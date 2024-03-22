@@ -1,7 +1,9 @@
 def addition(a,b):
     return a+b
+#Simple two functions
 
 def mult(a,b):
     return a*b
-
-#Simple two functions
+    
+def subtract(a,b):
+    return a-b
