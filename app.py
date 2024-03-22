@@ -5,4 +5,5 @@ def addition(a,b,c):
 def mult(a,b):
     return a*b
 
-#Simple two functions
+def subtract(a,b):
+    return a-b
