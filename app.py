@@ -6,6 +6,7 @@ def mult(a,b):
     return a*b
 
 def subtract(a,b):
+    temp = 0
     return a-b 
     
 
