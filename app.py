@@ -8,5 +8,6 @@ def mult(a,b):
 =======
 
 def subtract(a,b):
+    print(a-b)
     return a-b
 >>>>>>> 8e91cc5f6ad0185647647315df6b197293b15630
