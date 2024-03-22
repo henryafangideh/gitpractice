@@ -9,4 +9,6 @@ def subtract(a,b):
     temp = 0
     return a-b 
     
+def division(a,b):
+    return a/b
 
